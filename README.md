@@ -35,7 +35,8 @@ Based on the findings synthesized from the interview and the heuristic analysis,
 [Check out the prototype!](https://www.figma.com/proto/dqEps21MJDHipIweVErHbJWw/CTAT-Wireframes?node-id=596%3A778&viewport=544%2C109%2C0.03688184544444084&scaling=min-zoom)
 
 # Future Work
-
+1. One thing we recommended to start is to connect teachers with authors. This could be done both inside the Personalized Online Learning course or outside in a broader community.
+2. Make iterations on the prototypes
 
 
 # Acknowledgements
