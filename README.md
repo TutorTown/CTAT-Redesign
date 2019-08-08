@@ -10,13 +10,34 @@ Above all, are Intelligent Tutors really valuable? What value do teachers see in
 
 Throughout this summer, a team of four METALS students, with the guidance of Prof. Vincent Aleven and Jonathan Sewall, explores the perspectives of different categories of CTAT users. With valuable data gathered from the interviews, they plan to make improvements to this powerful tool for broader adoption beyond research projects.
 
-# Motivation
-
 # Process
+1. Brainstorming - Roses, Buds and Thorns
+2. Interview
+3. Storyboards
+4. Prototyping
+5. Redesign
 
 # Interview
+We divided our desired interview participants into three categories: 
+- current authors, 
+- potential authors, 
+- current teachers
 
----
-In Progress, Coming Soon...
+For each category, we came up with a set of questions to ask, targeting at specific aspects about tutor authoring and/or usage.
+
+# Heuristic Analysis
+Along with the interviews, the team members each conducted a heuristic analysis on the features of the behavioral graph editing in CTAT. Referring to the web article on heuristic analysis, we identified issues with the graph editor and categorized them into the 10 categories listed in the article. The categories with the highest frequencies are: **Visibility of System Information**, **Recognition rather than Recall**, and **Flexibility and Efficiency of Use**.
+
+# Storyboards
+Based on the findings synthesized from the interview and the heuristic analysis, we designed 10 storyboards, presenting a problem and a solution to it. We conducted speed dating sessions, where we describe the storyboards to the participants and asked them to quickly provide a short evaluation and assign a score from 1 to 5 on how well they thought the ideas would work. We then picked the two most popular ideas - graph editing and community building, and started designing a low-fi prototype.
+
+# Prototyping
+[Check out the prototype!](https://www.figma.com/proto/dqEps21MJDHipIweVErHbJWw/CTAT-Wireframes?node-id=596%3A778&viewport=544%2C109%2C0.03688184544444084&scaling=min-zoom)
+
+# Future Work
+
+
 
 # Acknowledgements
+Special thanks to Prof. Vincent Aleven and Jonathan Sewall, who guided us through the whole project, providing valuable feedback and suggestions.
+Thanks to all participants who provided us with great information that helped us proceed through the project.
