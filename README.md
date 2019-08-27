@@ -1,6 +1,8 @@
 Redesign of Cognitive Tutor Authoring Tools
 ===
 
+Author: [Hao Li](https://github.com/lihaobhsfer)
+
 # Overview
 Cognitive Tutor Authoring Tools (CTAT) is a tool for authoring Intelligent Tutors. It is used extensively in research projects at CMU, as well as in the Personalized Online Learning course. With this tool, authors are able to build highly customized learning by doing exercises, and scale them with the mass-production function. It is able to provide step by step hints, as well as error specific feedback. Adaptivity is the sole objective.
 
